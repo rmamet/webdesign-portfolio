@@ -1,11 +1,13 @@
 @font-face {
   font-family: Playhead;
   src: url(./playhead.otf);
+  font-display: swap;
 }
 
 @font-face {
   font-family: LibreBaskerville;
   src: url(./LibreBaskerville.ttf);
+  font-display: swap;
 }
 
 body {
