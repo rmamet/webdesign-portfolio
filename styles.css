@@ -75,6 +75,10 @@ main {
   background-image: url("./images/proj/mash.png");
 }
 
+.simple-bg.shirt-bg {
+  background-image: url("./images/proj/shirt.png");
+}
+
 .simple-bg.filter-bg {
   background-image: url("./images/proj/filter.png");
 }
